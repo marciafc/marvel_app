@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Marvel</string>
+
+    <string name="message_no_description_character">Personagem sem descrição cadastrada</string>
+
+    <!-- Mensagens de erro -->
+    <string name="error_message_server">Erro no servidor. Contate o suporte.</string>
+    <string name="error_message_connection">Erro de conexão. Verifica se há uma conexão ativa e tente novamente.</string>
+    <string name="error_message_conversion">Erro na conversão. Contate o suporte.</string>
+</resources>
